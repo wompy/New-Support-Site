@@ -1,12 +1,11 @@
 title: Title
 subtitle: Subtitle
-author: Mig Reyes
-description: Description.
+author: Bitcasa Support
+description: Bitcasa Support FAQ & KB articles.
 
 auto: true
 source: .
 exclude: .gitignore, .sass-cache, _drafts, _site, public, Gemfile, Gemfile.lock, Rakefile, README.md
 
 permalink: /:categories/:title
-markdown: rdiscount
 pygments: true
